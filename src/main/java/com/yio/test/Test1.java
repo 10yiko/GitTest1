@@ -9,5 +9,6 @@ public class Test1 {
         System.out.println("test");
         System.out.println("test");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
