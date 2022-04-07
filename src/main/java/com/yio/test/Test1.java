@@ -8,5 +8,6 @@ public class Test1 {
         System.out.println("3");
         System.out.println("test");
         System.out.println("test");
+        System.out.println("push test");
     }
 }
